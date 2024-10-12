@@ -1,4 +1,4 @@
- #  Desafio de Projeto 1: Resumindo o curso até aqui! 📗
+ # Resumindo o curso até aqui! 📗
  
  ## 📔 Resumo do Curso: Introdução a Computação em Nuvem 
 
